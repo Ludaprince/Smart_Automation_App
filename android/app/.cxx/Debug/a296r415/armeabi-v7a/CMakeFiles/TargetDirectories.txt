@@ -1,0 +1,2 @@
+C:/Users/user/Desktop/smart/smart_app/android/app/.cxx/Debug/a296r415/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/smart/smart_app/android/app/.cxx/Debug/a296r415/armeabi-v7a/CMakeFiles/rebuild_cache.dir
