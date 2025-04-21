@@ -13,9 +13,9 @@ void showCustomBottomSheet(BuildContext context, String deviceId) {
   // Define device-specific modes
   final Map<String, List<String>> deviceModes = {
     '1': ['COLD', 'FAN', 'DRY'], // Air conditioner
-    '2': ['LOW', 'WARM', 'HIGH'], // Smart TV
+    '2': ['NEXT', 'PAUSE', 'PREVIOUS'], // Smart TV
     '3': ['DIM', 'BRIGHT', 'AUTO'], // Main lamp
-    '4': ['DIM', 'BRIGHT', 'AUTO'], // Desk lamp
+    '4': ['LOW', 'WARM', 'HIGH'], // Desk lamp
   };
 
   // Get modes for the current device, default to generic modes if not found
